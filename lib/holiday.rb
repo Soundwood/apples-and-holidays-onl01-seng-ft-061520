@@ -55,7 +55,7 @@ def all_winter_holiday_supplies(holiday_hash)
     end
   end
 return supplies_list
-      
+puts supplies_list
     
 end
 
